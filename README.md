@@ -8,9 +8,12 @@
   <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"></a>
   <img src="https://img.shields.io/badge/Ecosystem-OpenClaw-2563eb?style=flat-square" alt="OpenClaw Ecosystem">
   <img src="https://img.shields.io/badge/Contributions-Welcome-16a34a?style=flat-square" alt="Contributions Welcome">
+  <a href="./LICENSE"><img src="https://img.shields.io/badge/License-CC0-6b7280?style=flat-square" alt="CC0 License"></a>
 </p>
 
 <p><b>If this list saves you time, consider giving the repo a star.</b></p>
+
+<p><a href="./CONTRIBUTING.md">Contributing Guide</a> · <a href="./LICENSE">License</a></p>
 
 </div>
 
@@ -184,3 +187,5 @@
 - This list intentionally avoids listing obvious duplicate lineage repos separately.
 - If a project fits multiple categories, it is listed once in its strongest category.
 - If you want to improve this list, prefer adding projects with clear OpenClaw relevance, real maintenance signal, and concise factual descriptions.
+
+<p align="right"><a href="#contents">⬆️ Back to Top</a></p>
