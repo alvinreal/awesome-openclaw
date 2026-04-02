@@ -75,6 +75,7 @@
 - [refly-ai/refly](https://github.com/refly-ai/refly) ![GitHub Repo stars](https://img.shields.io/github/stars/refly-ai/refly?style=social) - Open-source agent skills builder for creating reusable workflows and bots.
 - [unbrowse-ai/unbrowse](https://github.com/unbrowse-ai/unbrowse) ![GitHub Repo stars](https://img.shields.io/github/stars/unbrowse-ai/unbrowse?style=social) - API-native browser skill and CLI for agent workflows.
 - [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/libukai/awesome-agent-skills?style=social) - Broader agent-skills guide with OpenClaw overlap.
+- [SeeleAI/skill-taxonomy](https://github.com/SeeleAI/skill-taxonomy) ![GitHub Repo stars](https://img.shields.io/github/stars/SeeleAI/skill-taxonomy?style=social) - Analyze and visualize OpenClaw skill systems to spot routing conflicts, dependency structure, duplicate capabilities, and missing abstractions.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
