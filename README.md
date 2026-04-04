@@ -79,6 +79,7 @@
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=social) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and the CLI.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web.
 - [kesslerio/coding-agent-openclaw-skill](https://github.com/kesslerio/coding-agent-openclaw-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/kesslerio/coding-agent-openclaw-skill?style=social) - Coding agent skill that orchestrates Codex, Claude Code, Gemini, Pi, and OpenCode CLIs.
+- [Jason-Vaughan/TangleClaw](https://github.com/Jason-Vaughan/TangleClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/Jason-Vaughan/TangleClaw?style=social) - AI coding session orchestrator with persistent tmux sessions, multi-engine management, and mobile access for OpenClaw and other coding agents.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -102,6 +103,7 @@
 - [Curbob/LobsterBoard](https://github.com/Curbob/LobsterBoard) ![GitHub Repo stars](https://img.shields.io/github/stars/Curbob/LobsterBoard?style=social) - Self-hosted drag-and-drop dashboard builder with 60+ widgets and template gallery.
 - [qingchencloud/clawpanel](https://github.com/qingchencloud/clawpanel) ![GitHub Repo stars](https://img.shields.io/github/stars/qingchencloud/clawpanel?style=social) - Cross-platform desktop management panel with built-in assistant features.
 - [robsannaa/openclaw-mission-control](https://github.com/robsannaa/openclaw-mission-control) ![GitHub Repo stars](https://img.shields.io/github/stars/robsannaa/openclaw-mission-control?style=social) - GUI for managing OpenClaw without touching the CLI.
+- [carlosazaustre/tenacitOS](https://github.com/carlosazaustre/tenacitOS) ![GitHub Repo stars](https://img.shields.io/github/stars/carlosazaustre/tenacitOS?style=social) - Real-time mission control dashboard with system monitor, cost tracking, cron manager, memory browser, and 3D office visualization.
 - [zhaoxinyi02/ClawPanel](https://github.com/zhaoxinyi02/ClawPanel) ![GitHub Repo stars](https://img.shields.io/github/stars/zhaoxinyi02/ClawPanel?style=social) - Go-based visual management panel with real-time logs.
 - [luccast/crabwalk](https://github.com/luccast/crabwalk) ![GitHub Repo stars](https://img.shields.io/github/stars/luccast/crabwalk?style=social) - Real-time companion monitor for OpenClaw agents.
 - [getclawe/clawe](https://github.com/getclawe/clawe) ![GitHub Repo stars](https://img.shields.io/github/stars/getclawe/clawe?style=social) - Trello-style multi-agent coordination system built around OpenClaw workflows.
@@ -126,6 +128,8 @@
 - [dongsheng123132/u-claw](https://github.com/dongsheng123132/u-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/dongsheng123132/u-claw?style=social) - Portable offline installer bundle and distribution path.
 - [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) ![GitHub Repo stars](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social) - One-click installer for OpenClaw setups.
 - [justlovemaki/openclaw-docker-cn-im](https://github.com/justlovemaki/openclaw-docker-cn-im) ![GitHub Repo stars](https://img.shields.io/github/stars/justlovemaki/openclaw-docker-cn-im?style=social) - Docker distribution preconfigured for major Chinese IM integrations.
+- [chernistry/bernstein](https://github.com/chernistry/bernstein) ![GitHub Repo stars](https://img.shields.io/github/stars/chernistry/bernstein?style=social) - Declarative agent orchestration that parallelizes coding tasks across multiple AI agents including OpenClaw.
+- [tverney/openclaw-agentcore-personal](https://github.com/tverney/openclaw-agentcore-personal) ![GitHub Repo stars](https://img.shields.io/github/stars/tverney/openclaw-agentcore-personal?style=social) - Cost-optimized serverless OpenClaw deployment on AWS Bedrock AgentCore (~$9/mo) with Discord/WhatsApp/Telegram/Slack support.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -142,6 +146,7 @@
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/memsearch?style=social) - Markdown-first memory system inspired by OpenClaw.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social) - Open-source context database designed specifically for AI Agents through a file system paradigm.
 - [memorycrystal/memorycrystal](https://github.com/memorycrystal/memorycrystal) ![GitHub Repo stars](https://img.shields.io/github/stars/memorycrystal/memorycrystal?style=social) - Persistent cognitive memory layer with vector-indexed knowledge graph. Ships as OpenClaw plugin and MCP server.
+- [FFatTiger/nocturne-memory-openclaw](https://github.com/FFatTiger/nocturne-memory-openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/FFatTiger/nocturne-memory-openclaw?style=social) - Self-hosted long-term memory system for OpenClaw with semantic recall, web UI, and MCP client support.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
