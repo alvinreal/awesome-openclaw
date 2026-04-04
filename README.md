@@ -144,6 +144,7 @@
 ## 🛡️ Security & Safety
 
 - [prompt-security/clawsec](https://github.com/prompt-security/clawsec) ![GitHub Repo stars](https://img.shields.io/github/stars/prompt-security/clawsec?style=social) - Security skill suite for audits, integrity checks, and drift detection.
+- [ucsandman/dashclaw](https://github.com/ucsandman/dashclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/ucsandman/dashclaw?style=social) - Decision infrastructure for AI agents with governance policies, human-in-the-loop approvals, risk scoring, replayable audit trails, and compliance controls.
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/nearai/ironclaw?style=social) - Privacy- and security-focused Rust implementation inspired by OpenClaw.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/NemoClaw?style=social) - More secure managed runtime approach for OpenClaw-style workloads.
 - [tophant-ai/ClawVault](https://github.com/tophant-ai/ClawVault) ![GitHub Repo stars](https://img.shields.io/github/stars/tophant-ai/ClawVault?style=social) - Security vault project for tighter control around OpenClaw environments.
