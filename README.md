@@ -79,6 +79,7 @@
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=social) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and the CLI.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web.
 - [kesslerio/coding-agent-openclaw-skill](https://github.com/kesslerio/coding-agent-openclaw-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/kesslerio/coding-agent-openclaw-skill?style=social) - Coding agent skill that orchestrates Codex, Claude Code, Gemini, Pi, and OpenCode CLIs.
+- [Sheygoodbai/vericlaw](https://github.com/Sheygoodbai/vericlaw) ![GitHub Repo stars](https://img.shields.io/github/stars/Sheygoodbai/vericlaw?style=social) - Apple-native correction companion for OpenClaw with a live ClawHub skill (`clawhub install vericlaw`), companion plugin route, and GitHub-hosted app download surface.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
