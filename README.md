@@ -87,6 +87,8 @@
 - [robsannaa/openclaw-mission-control](https://github.com/robsannaa/openclaw-mission-control) ![GitHub Repo stars](https://img.shields.io/github/stars/robsannaa/openclaw-mission-control?style=social) - GUI for managing OpenClaw without touching the CLI.
 - [zhaoxinyi02/ClawPanel](https://github.com/zhaoxinyi02/ClawPanel) ![GitHub Repo stars](https://img.shields.io/github/stars/zhaoxinyi02/ClawPanel?style=social) - Go-based visual management panel with real-time logs.
 - [luccast/crabwalk](https://github.com/luccast/crabwalk) ![GitHub Repo stars](https://img.shields.io/github/stars/luccast/crabwalk?style=social) - Real-time companion monitor for OpenClaw agents.
+- [silicondawn/memory-viewer](https://github.com/silicondawn/memory-viewer) ![GitHub Repo stars](https://img.shields.io/github/stars/silicondawn/memory-viewer?style=social) - Web UI for browsing and editing OpenClaw memory files with search and live reload.
+- [wenkang-xie/ClawBoard](https://github.com/wenkang-xie/ClawBoard) ![GitHub Repo stars](https://img.shields.io/github/stars/wenkang-xie/ClawBoard?style=social) - Multi-agent dashboard for sessions, memory, tasks, and usage monitoring.
 - [getclawe/clawe](https://github.com/getclawe/clawe) ![GitHub Repo stars](https://img.shields.io/github/stars/getclawe/clawe?style=social) - Trello-style multi-agent coordination system built around OpenClaw workflows.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
@@ -118,6 +120,7 @@
 - [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/Martian-Engineering/lossless-claw?style=social) - Lossless context-management plugin for OpenClaw.
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) ![GitHub Repo stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=social) - Long-term memory layer for proactive OpenClaw-style agents.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) ![GitHub Repo stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=social) - Memory OS for persistent skill memory and cross-task reuse.
+- [MemTensor/MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/MemOS-Cloud-OpenClaw-Plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/MemTensor/MemOS-Cloud-OpenClaw-Plugin?style=social) - Official MemOS Cloud plugin enabling long-term memory for agents.
 - [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro?style=social) - Enhanced LanceDB-backed memory plugin with hybrid retrieval and reranking.
 - [EverMind-AI/EverMemOS](https://github.com/EverMind-AI/EverMemOS) ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/EverMemOS?style=social) - Memory OS focused on personalization and token savings.
 - [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) ![GitHub Repo stars](https://img.shields.io/github/stars/supermemoryai/openclaw-supermemory?style=social) - Long-term memory extension for OpenClaw.
@@ -169,6 +172,7 @@
 - [AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) ![GitHub Repo stars](https://img.shields.io/github/stars/AidanPark/openclaw-android?style=social) - Run OpenClaw on Android with minimal setup.
 - [yuga-hashimoto/openclaw-assistant](https://github.com/yuga-hashimoto/openclaw-assistant) ![GitHub Repo stars](https://img.shields.io/github/stars/yuga-hashimoto/openclaw-assistant?style=social) - Android voice assistant app with wake word activation and system integration.
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/ClawTeam?style=social) - Agent swarm automation framework for one-command team execution.
+- [ericwang915/PythonClaw](https://github.com/ericwang915/PythonClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/ericwang915/PythonClaw?style=social) - OpenClaw reimagined in pure Python with memory, RAG, skills, and web dashboard.
 - [remorses/kimaki](https://github.com/remorses/kimaki) ![GitHub Repo stars](https://img.shields.io/github/stars/remorses/kimaki?style=social) - OpenClaw-like workflow on top of Opencode with deep Discord integration.
 - [mosaxiv/clawlet](https://github.com/mosaxiv/clawlet) ![GitHub Repo stars](https://img.shields.io/github/stars/mosaxiv/clawlet?style=social) - Ultra-lightweight personal assistant with OpenClaw overlap.
 - [zevorn/rt-claw](https://github.com/zevorn/rt-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/zevorn/rt-claw?style=social) - Cheap runtime alternative in the wider OpenClaw family.
