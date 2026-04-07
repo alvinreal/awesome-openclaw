@@ -88,6 +88,7 @@
 - [zhaoxinyi02/ClawPanel](https://github.com/zhaoxinyi02/ClawPanel) ![GitHub Repo stars](https://img.shields.io/github/stars/zhaoxinyi02/ClawPanel?style=social) - Go-based visual management panel with real-time logs.
 - [luccast/crabwalk](https://github.com/luccast/crabwalk) ![GitHub Repo stars](https://img.shields.io/github/stars/luccast/crabwalk?style=social) - Real-time companion monitor for OpenClaw agents.
 - [getclawe/clawe](https://github.com/getclawe/clawe) ![GitHub Repo stars](https://img.shields.io/github/stars/getclawe/clawe?style=social) - Trello-style multi-agent coordination system built around OpenClaw workflows.
+- [cheapestinference/silos](https://github.com/cheapestinference/silos) ![GitHub Repo stars](https://img.shields.io/github/stars/cheapestinference/silos?style=social) - Open-source web dashboard with shared browser, agent management, live chat with tool-call visualization, channel integrations (WhatsApp, Telegram, Discord, Slack), skills and cron-job management. Docker self-hosted, MIT License. Managed hosting at [silosplatform.com](https://silosplatform.com).
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
