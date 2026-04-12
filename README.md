@@ -137,6 +137,7 @@
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/nearai/ironclaw?style=social) - Privacy- and security-focused Rust implementation inspired by OpenClaw.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/NemoClaw?style=social) - More secure managed runtime approach for OpenClaw-style workloads.
 - [tophant-ai/ClawVault](https://github.com/tophant-ai/ClawVault) ![GitHub Repo stars](https://img.shields.io/github/stars/tophant-ai/ClawVault?style=social) - Security vault project for tighter control around OpenClaw environments.
+- [InnerWarden/innerwarden](https://github.com/InnerWarden/innerwarden) ![GitHub Repo stars](https://img.shields.io/github/stars/InnerWarden/innerwarden?style=social) - Security agent for Linux servers and AI agents — validates commands before execution, blocks dangerous ones, and captures attacker behavior.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
