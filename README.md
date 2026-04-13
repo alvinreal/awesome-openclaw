@@ -174,6 +174,7 @@
 - [remorses/kimaki](https://github.com/remorses/kimaki) ![GitHub Repo stars](https://img.shields.io/github/stars/remorses/kimaki?style=social) - OpenClaw-like workflow on top of Opencode with deep Discord integration.
 - [mosaxiv/clawlet](https://github.com/mosaxiv/clawlet) ![GitHub Repo stars](https://img.shields.io/github/stars/mosaxiv/clawlet?style=social) - Ultra-lightweight personal assistant with OpenClaw overlap.
 - [zevorn/rt-claw](https://github.com/zevorn/rt-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/zevorn/rt-claw?style=social) - Cheap runtime alternative in the wider OpenClaw family.
+- [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social) - Collective skill evolution framework for OpenClaw-style agents.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
