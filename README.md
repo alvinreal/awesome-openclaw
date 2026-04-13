@@ -44,6 +44,7 @@
 - [openclaw/lobster](https://github.com/openclaw/lobster) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/lobster?style=social) - Official workflow shell for composing tools and resumable automations.
 - [openclaw/openclaw-windows-node](https://github.com/openclaw/openclaw-windows-node) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw-windows-node?style=social) - Official Windows companion suite.
 - [openclaw/acpx](https://github.com/openclaw/acpx) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/acpx?style=social) - Official headless CLI client for stateful ACP sessions.
+- [CCHub](https://github.com/Moresl/cchub) - A desktop control panel for the Claude Code / Codex / Gemini CLI ecosystem. Manage MCP servers, config profiles, agent skills, CLAUDE.md, hooks, and workflow templates from a single Tauri app (Windows / macOS / Linux).
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
