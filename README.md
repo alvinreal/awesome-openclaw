@@ -155,6 +155,7 @@
 - [BytePioneer-AI/openclaw-china](https://github.com/BytePioneer-AI/openclaw-china) ![GitHub Repo stars](https://img.shields.io/github/stars/BytePioneer-AI/openclaw-china?style=social) - China-focused plugin pack covering Feishu, DingTalk, QQ, WeChat, and related channels.
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) ![GitHub Repo stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social) - Chinese translation and localized setup resources.
 - [onfabric/waclaw](https://github.com/onfabric/waclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/onfabric/waclaw?style=social) - Self-hosted WhatsApp router for fleets of claws.
+- [Xquik-dev/tweetclaw](https://github.com/Xquik-dev/tweetclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=social) - X/Twitter channel plugin with posting, replies, likes, retweets, follows, DMs, and background event polling.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
