@@ -145,6 +145,7 @@
 ## 🔌 Plugins & Channel Integrations
 
 - [BlockRunAI/ClawRouter](https://github.com/BlockRunAI/ClawRouter) ![GitHub Repo stars](https://img.shields.io/github/stars/BlockRunAI/ClawRouter?style=social) - LLM router for OpenClaw with model selection and cost-control focus.
+- [MohamedAbdallah-14/prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) ![GitHub Repo stars](https://img.shields.io/github/stars/MohamedAbdallah-14/prompt-to-asset?style=social) - Image-generation router: routes prompts to 30+ models (DALL-E, Stable Diffusion, Flux, Midjourney) through a single MCP interface. `npm install -g prompt-to-asset`
 - [soimy/openclaw-channel-dingtalk](https://github.com/soimy/openclaw-channel-dingtalk) ![GitHub Repo stars](https://img.shields.io/github/stars/soimy/openclaw-channel-dingtalk?style=social) - DingTalk channel plugin for OpenClaw.
 - [larksuite/openclaw-lark](https://github.com/larksuite/openclaw-lark) ![GitHub Repo stars](https://img.shields.io/github/stars/larksuite/openclaw-lark?style=social) - Official Feishu and Lark channel plugin.
 - [AlexAnys/openclaw-feishu](https://github.com/AlexAnys/openclaw-feishu) ![GitHub Repo stars](https://img.shields.io/github/stars/AlexAnys/openclaw-feishu?style=social) - Feishu integration guide and plugin path.
