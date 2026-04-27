@@ -169,6 +169,7 @@
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/qwibitai/nanoclaw?style=social) - Lightweight secure alternative with broad messaging integrations.
 - [poco-ai/poco-agent](https://github.com/poco-ai/poco-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/poco-ai/poco-agent?style=social) - Web UI-first alternative to OpenClaw with sandboxed runtime.
 - [AidanPark/openclaw-android](https://github.com/AidanPark/openclaw-android) ![GitHub Repo stars](https://img.shields.io/github/stars/AidanPark/openclaw-android?style=social) - Run OpenClaw on Android with minimal setup.
+- [Onepilot](https://onepilotapp.com) - iOS and iPadOS app that deploys, runs, and chats with OpenClaw agents over SSH on a remote machine. Also supports Hermes, Claude Code, and Codex CLI.
 - [yuga-hashimoto/openclaw-assistant](https://github.com/yuga-hashimoto/openclaw-assistant) ![GitHub Repo stars](https://img.shields.io/github/stars/yuga-hashimoto/openclaw-assistant?style=social) - Android voice assistant app with wake word activation and system integration.
 - [HKUDS/ClawTeam](https://github.com/HKUDS/ClawTeam) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/ClawTeam?style=social) - Agent swarm automation framework for one-command team execution.
 - [remorses/kimaki](https://github.com/remorses/kimaki) ![GitHub Repo stars](https://img.shields.io/github/stars/remorses/kimaki?style=social) - OpenClaw-like workflow on top of Opencode with deep Discord integration.
