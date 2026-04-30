@@ -62,6 +62,9 @@
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/kepano/obsidian-skills?style=social) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and the CLI.
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/mvanhorn/last30days-skill?style=social) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web.
 - [kesslerio/coding-agent-openclaw-skill](https://github.com/kesslerio/coding-agent-openclaw-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/kesslerio/coding-agent-openclaw-skill?style=social) - Coding agent skill that orchestrates Codex, Claude Code, Gemini, Pi, and OpenCode CLIs.
+- [drakulavich/kesha-voice-kit](https://github.com/drakulavich/kesha-voice-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/drakulavich/kesha-voice-kit?style=social) - Open-source voice toolkit with OpenClaw skill. Speech-to-text (25 langs), text-to-speech (Kokoro + Piper), voice-activity detection.
+- [cookiy-ai/user-research-skill](https://github.com/cookiy-ai/user-research-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/cookiy-ai/user-research-skill?style=social) - End-to-end user research skill for AI agents — AI interviews, synthetic users, quant surveys.
+- [JuneYaooo/gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JuneYaooo/gpt-image2-ppt-skills?style=social) - Clone any .pptx into your own deck using GPT-image-2. Claude Code / OpenClaw skill.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -89,6 +92,7 @@
 - [luccast/crabwalk](https://github.com/luccast/crabwalk) ![GitHub Repo stars](https://img.shields.io/github/stars/luccast/crabwalk?style=social) - Real-time companion monitor for OpenClaw agents.
 - [getclawe/clawe](https://github.com/getclawe/clawe) ![GitHub Repo stars](https://img.shields.io/github/stars/getclawe/clawe?style=social) - Trello-style multi-agent coordination system built around OpenClaw workflows.
 - [SweetSophia/openclaw-pixel-agents](https://github.com/SweetSophia/openclaw-pixel-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/SweetSophia/openclaw-pixel-agents?style=social) - Pixel art office dashboard where AI agents walk around, sit at desks, and visually reflect their activity in real time.
+- [comet-ml/opik-openclaw](https://github.com/comet-ml/opik-openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/comet-ml/opik-openclaw?style=social) - Official plugin for OpenClaw that exports agent traces to Opik. Monitor agent behaviour, cost, tokens, errors.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -138,6 +142,8 @@
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/NemoClaw?style=social) - More secure managed runtime approach for OpenClaw-style workloads.
 - [tophant-ai/ClawVault](https://github.com/tophant-ai/ClawVault) ![GitHub Repo stars](https://img.shields.io/github/stars/tophant-ai/ClawVault?style=social) - Security vault project for tighter control around OpenClaw environments.
 - [InnerWarden/innerwarden](https://github.com/InnerWarden/innerwarden) ![GitHub Repo stars](https://img.shields.io/github/stars/InnerWarden/innerwarden?style=social) - Security agent for Linux servers and AI agents — validates commands before execution, blocks dangerous ones, and captures attacker behavior.
+- [peg/rampart](https://github.com/peg/rampart) ![GitHub Repo stars](https://img.shields.io/github/stars/peg/rampart?style=social) - Open-source firewall for AI agents. Policy engine that audits and controls what OpenClaw, Claude Code, Cursor, Codex, and any AI tool can do on your machine.
+- [christinminor459/OnionClaw](https://github.com/christinminor459/OnionClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/christinminor459/OnionClaw?style=social) - Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -174,6 +180,7 @@
 - [remorses/kimaki](https://github.com/remorses/kimaki) ![GitHub Repo stars](https://img.shields.io/github/stars/remorses/kimaki?style=social) - OpenClaw-like workflow on top of Opencode with deep Discord integration.
 - [mosaxiv/clawlet](https://github.com/mosaxiv/clawlet) ![GitHub Repo stars](https://img.shields.io/github/stars/mosaxiv/clawlet?style=social) - Ultra-lightweight personal assistant with OpenClaw overlap.
 - [zevorn/rt-claw](https://github.com/zevorn/rt-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/zevorn/rt-claw?style=social) - Cheap runtime alternative in the wider OpenClaw family.
+- [librefang/librefang](https://github.com/librefang/librefang) ![GitHub Repo stars](https://img.shields.io/github/stars/librefang/librefang?style=social) - Open-source agent operating system written in Rust. Live demo available.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
