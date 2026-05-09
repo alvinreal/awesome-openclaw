@@ -66,6 +66,8 @@
 - [drakulavich/kesha-voice-kit](https://github.com/drakulavich/kesha-voice-kit) ![GitHub Repo stars](https://img.shields.io/github/stars/drakulavich/kesha-voice-kit?style=social) - Open-source voice toolkit with OpenClaw skill. Speech-to-text (25 langs), text-to-speech (Kokoro + Piper), voice-activity detection.
 - [cookiy-ai/user-research-skill](https://github.com/cookiy-ai/user-research-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/cookiy-ai/user-research-skill?style=social) - End-to-end user research skill for AI agents — AI interviews, synthetic users, quant surveys.
 - [JuneYaooo/gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JuneYaooo/gpt-image2-ppt-skills?style=social) - Clone any .pptx into your own deck using GPT-image-2. Claude Code / OpenClaw skill.
+- [jsrgjcy/powershell-windows-skill](https://github.com/jsrgjcy/powershell-windows-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/jsrgjcy/powershell-windows-skill?style=social) - OpenClaw skill for Windows PowerShell operations — script generation, execution conventions, safety checks.
+- [JunjieYu95/glancely](https://github.com/JunjieYu95/glancely) ![GitHub Repo stars](https://img.shields.io/github/stars/JunjieYu95/glancely?style=social) - All-in-one personal tracker skill bundle — diary, mood, reminders, daily MIT with read-only dashboard.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -147,6 +149,7 @@
 - [peg/rampart](https://github.com/peg/rampart) ![GitHub Repo stars](https://img.shields.io/github/stars/peg/rampart?style=social) - Open-source firewall for AI agents. Policy engine that audits and controls what OpenClaw, Claude Code, Cursor, Codex, and any AI tool can do on your machine.
 - [christinminor459/OnionClaw](https://github.com/christinminor459/OnionClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/christinminor459/OnionClaw?style=social) - Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool.
 - [getaxonflow/axonflow-openclaw-plugin](https://github.com/getaxonflow/axonflow-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/getaxonflow/axonflow-openclaw-plugin?style=social) - AxonFlow governance for OpenClaw agents — block dangerous tools, govern MCP access, and keep audit trails.
+- [secr-dev/openclaw-plugin](https://github.com/secr-dev/openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/secr-dev/openclaw-plugin?style=social) - Native secrets manager plugin for OpenClaw — brokers credentials, enforces per-agent allowlists, gates tool calls through MCP with approval queues.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
@@ -165,6 +168,7 @@
 - [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) ![GitHub Repo stars](https://img.shields.io/github/stars/1186258278/OpenClawChineseTranslation?style=social) - Chinese translation and localized setup resources.
 - [onfabric/waclaw](https://github.com/onfabric/waclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/onfabric/waclaw?style=social) - Self-hosted WhatsApp router for fleets of claws.
 - [omarshahine/HomeClaw](https://github.com/omarshahine/HomeClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/HomeClaw?style=social) - HomeKit smart home control via MCP — lights, locks, thermostats, and scenes for OpenClaw.
+- [omarshahine/restaurant-cli](https://github.com/omarshahine/restaurant-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/restaurant-cli?style=social) - Pluggable CLI for booking restaurant reservations — Resy, OpenTable, Tock, SevenRooms. Works as both OpenClaw plugin and Claude Code plugin.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
