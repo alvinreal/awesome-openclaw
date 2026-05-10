@@ -189,6 +189,7 @@
 - [mosaxiv/clawlet](https://github.com/mosaxiv/clawlet) ![GitHub Repo stars](https://img.shields.io/github/stars/mosaxiv/clawlet?style=social) - Ultra-lightweight personal assistant with OpenClaw overlap.
 - [zevorn/rt-claw](https://github.com/zevorn/rt-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/zevorn/rt-claw?style=social) - Cheap runtime alternative in the wider OpenClaw family.
 - [librefang/librefang](https://github.com/librefang/librefang) ![GitHub Repo stars](https://img.shields.io/github/stars/librefang/librefang?style=social) - Open-source agent operating system written in Rust. Live demo available.
+- [lucinate-ai/lucinate](https://github.com/lucinate-ai/lucinate) ![GitHub Repo stars](https://img.shields.io/github/stars/lucinate-ai/lucinate?style=social) - Terminal-native TUI chat client in Go for OpenClaw, Hermes, and OpenAI-compatible endpoints.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
