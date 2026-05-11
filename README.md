@@ -169,6 +169,7 @@
 - [onfabric/waclaw](https://github.com/onfabric/waclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/onfabric/waclaw?style=social) - Self-hosted WhatsApp router for fleets of claws.
 - [omarshahine/HomeClaw](https://github.com/omarshahine/HomeClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/HomeClaw?style=social) - HomeKit smart home control via MCP — lights, locks, thermostats, and scenes for OpenClaw.
 - [omarshahine/restaurant-cli](https://github.com/omarshahine/restaurant-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/restaurant-cli?style=social) - Pluggable CLI for booking restaurant reservations — Resy, OpenTable, Tock, SevenRooms. Works as both OpenClaw plugin and Claude Code plugin.
+- [Xquik-dev/tweetclaw](https://github.com/Xquik-dev/tweetclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=social) - X/Twitter channel plugin with posting, replies, likes, retweets, follows, DMs, and background event polling.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
