@@ -134,6 +134,7 @@
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social) - Open-source context database designed specifically for AI Agents through a file system paradigm.
 - [memorycrystal/memorycrystal](https://github.com/memorycrystal/memorycrystal) ![GitHub Repo stars](https://img.shields.io/github/stars/memorycrystal/memorycrystal?style=social) - Persistent cognitive memory layer with vector-indexed knowledge graph. Ships as OpenClaw plugin and MCP server.
 - [usecortex/openclaw-hydradb](https://github.com/usecortex/openclaw-hydradb) ![GitHub Repo stars](https://img.shields.io/github/stars/usecortex/openclaw-hydradb?style=social) - OpenClaw plugin for HydraDB providing agentic memory with automatic conversation capture and recall.
+- [nkuhanas/Parley](https://github.com/nkuhanas/Parley) ![GitHub Repo stars](https://img.shields.io/github/stars/nkuhanas/Parley?style=social) - Durable coordination state for OpenClaw agents, with boards, obligations, plans, artifacts, scoped identity, and recovery.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
