@@ -216,3 +216,5 @@
 ## ⭐ Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=alvinunreal/awesome-openclaw&type=Date)](https://www.star-history.com/#alvinunreal/awesome-openclaw&Date)
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) - Free open-source monitoring dashboard for OpenClaw AI agents — token usage, session tracking, 7-day trends, multi-model support.
