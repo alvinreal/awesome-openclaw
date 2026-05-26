@@ -134,6 +134,7 @@
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social) - Open-source context database designed specifically for AI Agents through a file system paradigm.
 - [memorycrystal/memorycrystal](https://github.com/memorycrystal/memorycrystal) ![GitHub Repo stars](https://img.shields.io/github/stars/memorycrystal/memorycrystal?style=social) - Persistent cognitive memory layer with vector-indexed knowledge graph. Ships as OpenClaw plugin and MCP server.
 - [usecortex/openclaw-hydradb](https://github.com/usecortex/openclaw-hydradb) ![GitHub Repo stars](https://img.shields.io/github/stars/usecortex/openclaw-hydradb?style=social) - OpenClaw plugin for HydraDB providing agentic memory with automatic conversation capture and recall.
+- [jarimustonen/formative-memory](https://github.com/jarimustonen/formative-memory) ![GitHub Repo stars](https://img.shields.io/github/stars/jarimustonen/formative-memory?style=social) - Biologically-inspired memory plugin for OpenClaw. Pre-response hybrid (BM25 + embedding) recall with weighted associations, post-response provenance-based reinforcement, and a nightly consolidation ("sleep") loop that decays, prunes, and LLM-merges memories. SQLite + sqlite-vec, single file.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
