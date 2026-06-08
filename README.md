@@ -151,6 +151,7 @@
 - [getaxonflow/axonflow-openclaw-plugin](https://github.com/getaxonflow/axonflow-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/getaxonflow/axonflow-openclaw-plugin?style=social) - AxonFlow governance for OpenClaw agents — block dangerous tools, govern MCP access, and keep audit trails.
 - [secr-dev/openclaw-plugin](https://github.com/secr-dev/openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/secr-dev/openclaw-plugin?style=social) - Native secrets manager plugin for OpenClaw — brokers credentials, enforces per-agent allowlists, gates tool calls through MCP with approval queues.
 
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) — Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity and reputation before x402 micropayments — free tools: `score_agent(wallet)`, `preflight_check(wallet)`. Config: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
 <a id="plugins-channel-integrations"></a>
