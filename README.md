@@ -150,6 +150,7 @@
 - [christinminor459/OnionClaw](https://github.com/christinminor459/OnionClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/christinminor459/OnionClaw?style=social) - Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool.
 - [getaxonflow/axonflow-openclaw-plugin](https://github.com/getaxonflow/axonflow-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/getaxonflow/axonflow-openclaw-plugin?style=social) - AxonFlow governance for OpenClaw agents — block dangerous tools, govern MCP access, and keep audit trails.
 - [secr-dev/openclaw-plugin](https://github.com/secr-dev/openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/secr-dev/openclaw-plugin?style=social) - Native secrets manager plugin for OpenClaw — brokers credentials, enforces per-agent allowlists, gates tool calls through MCP with approval queues.
+- [anthony-chaudhary/dos-kernel](https://github.com/anthony-chaudhary/dos-kernel) ![GitHub Repo stars](https://img.shields.io/github/stars/anthony-chaudhary/dos-kernel?style=social) - Deterministic trust kernel for agent fleets — verifies "done" claims against git evidence, arbitrates file collisions between concurrent agents, audits commit claims vs diffs. Works with OpenClaw via MCP (`openclaw mcp add dos --command dos-mcp`).
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
