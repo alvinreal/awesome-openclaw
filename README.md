@@ -150,6 +150,7 @@
 - [christinminor459/OnionClaw](https://github.com/christinminor459/OnionClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/christinminor459/OnionClaw?style=social) - Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool.
 - [getaxonflow/axonflow-openclaw-plugin](https://github.com/getaxonflow/axonflow-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/getaxonflow/axonflow-openclaw-plugin?style=social) - AxonFlow governance for OpenClaw agents — block dangerous tools, govern MCP access, and keep audit trails.
 - [secr-dev/openclaw-plugin](https://github.com/secr-dev/openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/secr-dev/openclaw-plugin?style=social) - Native secrets manager plugin for OpenClaw — brokers credentials, enforces per-agent allowlists, gates tool calls through MCP with approval queues.
+- [trnt-ai/trent-openclaw-security-assessment](https://github.com/trnt-ai/trent-openclaw-security-assessment) ![GitHub Repo stars](https://img.shields.io/github/stars/trnt-ai/trent-openclaw-security-assessment?style=social) - Security assessment skill that scans gateway config, installed skills, permissions, and custom code for chained attack paths; findings render inside the OpenClaw session.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
