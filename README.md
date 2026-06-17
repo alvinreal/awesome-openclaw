@@ -97,6 +97,7 @@
 - [getclawe/clawe](https://github.com/getclawe/clawe) ![GitHub Repo stars](https://img.shields.io/github/stars/getclawe/clawe?style=social) - Trello-style multi-agent coordination system built around OpenClaw workflows.
 - [SweetSophia/openclaw-pixel-agents](https://github.com/SweetSophia/openclaw-pixel-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/SweetSophia/openclaw-pixel-agents?style=social) - Pixel art office dashboard where AI agents walk around, sit at desks, and visually reflect their activity in real time.
 - [comet-ml/opik-openclaw](https://github.com/comet-ml/opik-openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/comet-ml/opik-openclaw?style=social) - Official plugin for OpenClaw that exports agent traces to Opik. Monitor agent behaviour, cost, tokens, errors.
+- [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) ![GitHub Repo stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social) - Free monitoring dashboard for OpenClaw agents: token usage, session tracking, 7-day trends, multi-model support. Vue 3 + ECharts.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
