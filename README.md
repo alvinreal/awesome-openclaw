@@ -133,7 +133,8 @@
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/memsearch?style=social) - Markdown-first memory system inspired by OpenClaw.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) ![GitHub Repo stars](https://img.shields.io/github/stars/volcengine/OpenViking?style=social) - Open-source context database designed specifically for AI Agents through a file system paradigm.
 - [memorycrystal/memorycrystal](https://github.com/memorycrystal/memorycrystal) ![GitHub Repo stars](https://img.shields.io/github/stars/memorycrystal/memorycrystal?style=social) - Persistent cognitive memory layer with vector-indexed knowledge graph. Ships as OpenClaw plugin and MCP server.
-- [usecortex/openclaw-hydradb](https://github.com/usecortex/openclaw-hydradb) ![GitHub Repo stars](https://img.shields.io/github/stars/usecortex/openclaw-hydradb?style=social) - OpenClaw plugin for HydraDB providing agentic memory with automatic conversation capture and recall.
+
+- [AgentsCoin MCP](https://github.com/axiosdevs/agentscoin-mcp) - MCP server giving an agent its own AgentsCoin wallet: create wallet, mine, pay, and create/trade tokens. Works via OpenClaw's MCP client.- [usecortex/openclaw-hydradb](https://github.com/usecortex/openclaw-hydradb) ![GitHub Repo stars](https://img.shields.io/github/stars/usecortex/openclaw-hydradb?style=social) - OpenClaw plugin for HydraDB providing agentic memory with automatic conversation capture and recall.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
