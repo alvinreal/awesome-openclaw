@@ -169,6 +169,7 @@
 - [onfabric/waclaw](https://github.com/onfabric/waclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/onfabric/waclaw?style=social) - Self-hosted WhatsApp router for fleets of claws.
 - [omarshahine/HomeClaw](https://github.com/omarshahine/HomeClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/HomeClaw?style=social) - HomeKit smart home control via MCP — lights, locks, thermostats, and scenes for OpenClaw.
 - [omarshahine/restaurant-cli](https://github.com/omarshahine/restaurant-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/restaurant-cli?style=social) - Pluggable CLI for booking restaurant reservations — Resy, OpenTable, Tock, SevenRooms. Works as both OpenClaw plugin and Claude Code plugin.
+- [plagtech/SpraayBatch](https://github.com/plagtech/SpraayBatch) ![GitHub Repo stars](https://img.shields.io/github/stars/plagtech/SpraayBatch?style=social) - Batch USDC payments on Base — pay up to 200 recipients in one atomic transaction. Gasless via CDP Paymaster, non-custodial auto-wallets, per-agent budget caps. [ClawHub Plugin](https://clawhub.ai/plagtech/plugins/spraay-batch)
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
