@@ -68,6 +68,7 @@
 - [JuneYaooo/gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JuneYaooo/gpt-image2-ppt-skills?style=social) - Clone any .pptx into your own deck using GPT-image-2. Claude Code / OpenClaw skill.
 - [jsrgjcy/powershell-windows-skill](https://github.com/jsrgjcy/powershell-windows-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/jsrgjcy/powershell-windows-skill?style=social) - OpenClaw skill for Windows PowerShell operations — script generation, execution conventions, safety checks.
 - [JunjieYu95/glancely](https://github.com/JunjieYu95/glancely) ![GitHub Repo stars](https://img.shields.io/github/stars/JunjieYu95/glancely?style=social) - All-in-one personal tracker skill bundle — diary, mood, reminders, daily MIT with read-only dashboard.
+- [Infrasity-Labs/dev-gtm-claude-skills](https://github.com/Infrasity-Labs/dev-gtm-claude-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/Infrasity-Labs/dev-gtm-claude-skills?style=social) - Open-source, cross-platform agent skills for Claude Code and agentskills.io-compatible platforms. These skills are for SEO, GEO (Generative Engine Optimization), AI discoverability, and developer marketing. 
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
