@@ -117,6 +117,7 @@
 - [dongsheng123132/u-claw](https://github.com/dongsheng123132/u-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/dongsheng123132/u-claw?style=social) - Portable offline installer bundle and distribution path.
 - [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) ![GitHub Repo stars](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social) - One-click installer for OpenClaw setups.
 - [justlovemaki/openclaw-docker-cn-im](https://github.com/justlovemaki/openclaw-docker-cn-im) ![GitHub Repo stars](https://img.shields.io/github/stars/justlovemaki/openclaw-docker-cn-im?style=social) - Docker distribution preconfigured for major Chinese IM integrations.
+- [pilot-protocol/pilotprotocol](https://github.com/pilot-protocol/pilotprotocol) ![GitHub Repo stars](https://img.shields.io/github/stars/pilot-protocol/pilotprotocol?style=social) - Open-source overlay network giving OpenClaw agents a permanent address, encrypted peer-to-peer tunnels, and NAT traversal across restarts and cloud moves — plus an app store of installable agent capabilities.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
