@@ -176,6 +176,7 @@
 ## ⚡ Alternative Clients & Runtimes
 
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) ![GitHub Repo stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=social) - Free local cowork app and OpenClaw-style UI spanning multiple coding-agent ecosystems.
+- [NextAgentX/HermesClaw](https://github.com/NextAgentX/HermesClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/NextAgentX/HermesClaw?style=social) - Electron + React desktop app unifying OpenClaw and HermesAgent with chat, workflows, runtimes, and task orchestration.
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) ![GitHub Repo stars](https://img.shields.io/github/stars/moltis-org/moltis?style=social) - Rust-native OpenClaw-style assistant runtime with sandboxing and voice support.
 - [memovai/mimiclaw](https://github.com/memovai/mimiclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/memovai/mimiclaw?style=social) - Hardware-oriented runtime for ultra-low-cost OpenClaw-style deployments.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) ![GitHub Repo stars](https://img.shields.io/github/stars/HKUDS/nanobot?style=social) - Ultra-lightweight OpenClaw-style alternative.
