@@ -68,6 +68,7 @@
 - [JuneYaooo/gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JuneYaooo/gpt-image2-ppt-skills?style=social) - Clone any .pptx into your own deck using GPT-image-2. Claude Code / OpenClaw skill.
 - [jsrgjcy/powershell-windows-skill](https://github.com/jsrgjcy/powershell-windows-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/jsrgjcy/powershell-windows-skill?style=social) - OpenClaw skill for Windows PowerShell operations — script generation, execution conventions, safety checks.
 - [JunjieYu95/glancely](https://github.com/JunjieYu95/glancely) ![GitHub Repo stars](https://img.shields.io/github/stars/JunjieYu95/glancely?style=social) - All-in-one personal tracker skill bundle — diary, mood, reminders, daily MIT with read-only dashboard.
+- [trysonar/skills](https://github.com/trysonar/skills) ![GitHub Repo stars](https://img.shields.io/github/stars/trysonar/skills?style=social) - App Store Optimization skill for AI agents — keyword difficulty/popularity, ASO audits, review mining, revenue estimates (iOS & Google Play). On [ClawHub](https://clawhub.ai/petersutarik/sonar-aso).
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
