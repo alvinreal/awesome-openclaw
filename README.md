@@ -68,6 +68,7 @@
 - [JuneYaooo/gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/JuneYaooo/gpt-image2-ppt-skills?style=social) - Clone any .pptx into your own deck using GPT-image-2. Claude Code / OpenClaw skill.
 - [jsrgjcy/powershell-windows-skill](https://github.com/jsrgjcy/powershell-windows-skill) ![GitHub Repo stars](https://img.shields.io/github/stars/jsrgjcy/powershell-windows-skill?style=social) - OpenClaw skill for Windows PowerShell operations — script generation, execution conventions, safety checks.
 - [JunjieYu95/glancely](https://github.com/JunjieYu95/glancely) ![GitHub Repo stars](https://img.shields.io/github/stars/JunjieYu95/glancely?style=social) - All-in-one personal tracker skill bundle — diary, mood, reminders, daily MIT with read-only dashboard.
+- [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/sergebulaev/linkedin-skills?style=social) - Social media marketing skill family for 7 platforms (LinkedIn, X, Instagram, YouTube, TikTok, Threads, Facebook): corpus-validated hooks, humanizer, audience insights. On ClawHub.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
