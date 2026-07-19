@@ -145,7 +145,6 @@
 - [nearai/ironclaw](https://github.com/nearai/ironclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/nearai/ironclaw?style=social) - Privacy- and security-focused Rust implementation inspired by OpenClaw.
 - [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/NVIDIA/NemoClaw?style=social) - More secure managed runtime approach for OpenClaw-style workloads.
 - [tophant-ai/ClawVault](https://github.com/tophant-ai/ClawVault) ![GitHub Repo stars](https://img.shields.io/github/stars/tophant-ai/ClawVault?style=social) - Security vault project for tighter control around OpenClaw environments.
-- [InnerWarden/innerwarden](https://github.com/InnerWarden/innerwarden) ![GitHub Repo stars](https://img.shields.io/github/stars/InnerWarden/innerwarden?style=social) - Security agent for Linux servers and AI agents — validates commands before execution, blocks dangerous ones, and captures attacker behavior.
 - [peg/rampart](https://github.com/peg/rampart) ![GitHub Repo stars](https://img.shields.io/github/stars/peg/rampart?style=social) - Open-source firewall for AI agents. Policy engine that audits and controls what OpenClaw, Claude Code, Cursor, Codex, and any AI tool can do on your machine.
 - [christinminor459/OnionClaw](https://github.com/christinminor459/OnionClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/christinminor459/OnionClaw?style=social) - Provide AI agents with full Tor network access and dark web data through a zero-config OpenClaw skill or standalone tool.
 - [getaxonflow/axonflow-openclaw-plugin](https://github.com/getaxonflow/axonflow-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/getaxonflow/axonflow-openclaw-plugin?style=social) - AxonFlow governance for OpenClaw agents — block dangerous tools, govern MCP access, and keep audit trails.
@@ -169,6 +168,7 @@
 - [onfabric/waclaw](https://github.com/onfabric/waclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/onfabric/waclaw?style=social) - Self-hosted WhatsApp router for fleets of claws.
 - [omarshahine/HomeClaw](https://github.com/omarshahine/HomeClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/HomeClaw?style=social) - HomeKit smart home control via MCP — lights, locks, thermostats, and scenes for OpenClaw.
 - [omarshahine/restaurant-cli](https://github.com/omarshahine/restaurant-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/restaurant-cli?style=social) - Pluggable CLI for booking restaurant reservations — Resy, OpenTable, Tock, SevenRooms. Works as both OpenClaw plugin and Claude Code plugin.
+- [Xquik-dev/tweetclaw](https://github.com/Xquik-dev/tweetclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/Xquik-dev/tweetclaw?style=social) - OpenClaw plugin for X search, publishing, media, monitoring, and giveaway draws through Xquik. Not affiliated with X Corp.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
