@@ -245,6 +245,7 @@
 - [zevorn/rt-claw](https://github.com/zevorn/rt-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/zevorn/rt-claw?style=social) - Cheap runtime alternative in the wider OpenClaw family.
 - [librefang/librefang](https://github.com/librefang/librefang) ![GitHub Repo stars](https://img.shields.io/github/stars/librefang/librefang?style=social) - Open-source agent operating system written in Rust. Live demo available.
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) ![GitHub Repo stars](https://img.shields.io/github/stars/tinyhumansai/openhuman?style=social) - Cross-platform OpenClaw-style assistant with a Rust core and Tauri desktop app, multi-channel messaging, knowledge-graph memory, skills, and voice.
+- [agent37-platform/gateway](https://github.com/agent37-platform/gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/agent37-platform/gateway?style=social) - Single Responses-style HTTP/SSE API that routes chat turns to Hermes or OpenClaw backends.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
