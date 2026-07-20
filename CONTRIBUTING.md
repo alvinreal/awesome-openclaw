@@ -105,7 +105,6 @@ Before opening a PR, check:
 
 - PRs authored by the trusted automation account `alvinreal` may be auto-merged **only** when they are README-only, non-structural, mechanically safe changes that pass all required checks.
 - Community PRs are never auto-merged.
-- Changes to `.moltfounders/` and other governance/process files never auto-merge.
 
 ### Mechanical-safe agent PRs
 
