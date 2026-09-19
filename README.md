@@ -153,6 +153,7 @@
 - [miaoxworld/OpenClawInstaller](https://github.com/miaoxworld/OpenClawInstaller) ![GitHub Repo stars](https://img.shields.io/github/stars/miaoxworld/OpenClawInstaller?style=social) - One-click installer for OpenClaw setups.
 - [justlovemaki/openclaw-docker-cn-im](https://github.com/justlovemaki/openclaw-docker-cn-im) ![GitHub Repo stars](https://img.shields.io/github/stars/justlovemaki/openclaw-docker-cn-im?style=social) - Docker distribution preconfigured for major Chinese IM integrations.
 - [linuxhsj/openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) ![GitHub Repo stars](https://img.shields.io/github/stars/linuxhsj/openclaw-zero-token?style=social) - Run OpenClaw against major AI models without traditional API tokens.
+- [mlamplugh-max/clawhire-openclaw-gateway](https://github.com/mlamplugh-max/clawhire-openclaw-gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/mlamplugh-max/clawhire-openclaw-gateway?style=social) - Multi-tenant worker that runs OpenClaw agents for many tenants with per-agent OS sandboxes, short-lived brokered credentials and an enforced monthly cost cap behind a REST contract. Source-available (ELv2).
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
