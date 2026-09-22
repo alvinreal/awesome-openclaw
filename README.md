@@ -168,6 +168,7 @@
 <a id="memory-context-systems"></a>
 ## 🧠 Memory & Context Systems
 
+- [aetna000/atmem](https://github.com/aetna000/atmem) ![GitHub Repo stars](https://img.shields.io/github/stars/aetna000/atmem?style=social) - Local-first OpenClaw memory plugin with shadow-mode migration, reversible activation, governed retrieval, provenance receipts, and an audit dashboard.
 - [Martian-Engineering/lossless-claw](https://github.com/Martian-Engineering/lossless-claw) ![GitHub Repo stars](https://img.shields.io/github/stars/Martian-Engineering/lossless-claw?style=social) - Lossless context-management plugin for OpenClaw.
 - [NevaMind-AI/memU](https://github.com/NevaMind-AI/memU) ![GitHub Repo stars](https://img.shields.io/github/stars/NevaMind-AI/memU?style=social) - Long-term memory layer for proactive OpenClaw-style agents.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) ![GitHub Repo stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=social) - Memory OS for persistent skill memory and cross-task reuse.
