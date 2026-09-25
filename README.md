@@ -225,6 +225,7 @@
 - [omarshahine/restaurant-cli](https://github.com/omarshahine/restaurant-cli) ![GitHub Repo stars](https://img.shields.io/github/stars/omarshahine/restaurant-cli?style=social) - Pluggable CLI for booking restaurant reservations — Resy, OpenTable, Tock, SevenRooms. Works as both OpenClaw plugin and Claude Code plugin.
 - [win4r/openclaw-a2a-gateway](https://github.com/win4r/openclaw-a2a-gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/win4r/openclaw-a2a-gateway?style=social) - OpenClaw plugin implementing the A2A (Agent-to-Agent) protocol for bidirectional agent communication.
 - [dream-num/openclaw-univer-office](https://github.com/dream-num/openclaw-univer-office) ![GitHub Repo stars](https://img.shields.io/github/stars/dream-num/openclaw-univer-office?style=social) - OpenClaw plugin for creating and reviewing collaborative office artifacts in Univer Workspace.
+- [Foresee-Tech/foresee](https://github.com/Foresee-Tech/foresee) ![GitHub Repo stars](https://img.shields.io/github/stars/Foresee-Tech/foresee?style=social) - Home and auto insurance quote estimates across carriers, with optional live carrier quotes; works as both OpenClaw and Claude Code plugin.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
