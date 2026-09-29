@@ -102,6 +102,7 @@
 - [vaibhavarora14/job-application-agent](https://github.com/vaibhavarora14/job-application-agent) ![GitHub Repo stars](https://img.shields.io/github/stars/vaibhavarora14/job-application-agent?style=social) - Job-search skill on ClawHub for discovering, qualifying, completing, and tracking applications.
 - [sergebulaev/linkedin-skills](https://github.com/sergebulaev/linkedin-skills) ![GitHub Repo stars](https://img.shields.io/github/stars/sergebulaev/linkedin-skills?style=social) - Social media marketing skills for LinkedIn and six other platforms, installable on OpenClaw from ClawHub.
 - [avansaber/erpclaw](https://github.com/avansaber/erpclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/avansaber/erpclaw?style=social) - Self-hosted ERP skill suite for invoicing, inventory, payroll, and double-entry accounting in plain English.
+- [tlgrcli/tlgr](https://github.com/tlgrcli/tlgr) ![GitHub Repo stars](https://img.shields.io/github/stars/tlgrcli/tlgr?style=social) - Telegram CLI and ClawHub skill for operating a personal Telegram account over MTProto, with JSON output and webhook event push.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
