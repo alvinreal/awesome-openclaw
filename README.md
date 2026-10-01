@@ -173,6 +173,7 @@
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) ![GitHub Repo stars](https://img.shields.io/github/stars/MemTensor/MemOS?style=social) - Memory OS for persistent skill memory and cross-task reuse.
 - [CortexReach/memory-lancedb-pro](https://github.com/CortexReach/memory-lancedb-pro) ![GitHub Repo stars](https://img.shields.io/github/stars/CortexReach/memory-lancedb-pro?style=social) - Enhanced LanceDB-backed memory plugin with hybrid retrieval and reranking.
 - [EverMind-AI/EverMemOS](https://github.com/EverMind-AI/EverMemOS) ![GitHub Repo stars](https://img.shields.io/github/stars/EverMind-AI/EverMemOS?style=social) - Memory OS focused on personalization and token savings.
+- [samvallad33/vestige](https://github.com/samvallad33/vestige) ![GitHub Repo stars](https://img.shields.io/github/stars/samvallad33/vestige?style=social) - Vestige Strata: local-first agent memory on a signed append-only log with hash-chained receipts, exact-handle recall and a ClawHub plugin.
 - [supermemoryai/openclaw-supermemory](https://github.com/supermemoryai/openclaw-supermemory) ![GitHub Repo stars](https://img.shields.io/github/stars/supermemoryai/openclaw-supermemory?style=social) - Long-term memory extension for OpenClaw.
 - [mem9-ai/mem9](https://github.com/mem9-ai/mem9) ![GitHub Repo stars](https://img.shields.io/github/stars/mem9-ai/mem9?style=social) - Unlimited memory layer for long-horizon OpenClaw workflows.
 - [zilliztech/memsearch](https://github.com/zilliztech/memsearch) ![GitHub Repo stars](https://img.shields.io/github/stars/zilliztech/memsearch?style=social) - Markdown-first memory system inspired by OpenClaw.
@@ -204,6 +205,7 @@
 - [getaxonflow/axonflow-openclaw-plugin](https://github.com/getaxonflow/axonflow-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/getaxonflow/axonflow-openclaw-plugin?style=social) - AxonFlow governance for OpenClaw agents — block dangerous tools, govern MCP access, and keep audit trails.
 - [secr-dev/openclaw-plugin](https://github.com/secr-dev/openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/secr-dev/openclaw-plugin?style=social) - Native secrets manager plugin for OpenClaw — brokers credentials, enforces per-agent allowlists, gates tool calls through MCP with approval queues.
 - [backbay-labs/clawdstrike](https://github.com/backbay-labs/clawdstrike) ![GitHub Repo stars](https://img.shields.io/github/stars/backbay-labs/clawdstrike?style=social) - AI EDR for developer workstations and autonomous agent fleets with swarm detection and response.
+- [samvallad33/vestige](https://github.com/samvallad33/vestige) ![GitHub Repo stars](https://img.shields.io/github/stars/samvallad33/vestige?style=social) - Operator Lite: a free deterministic PreToolUse gate that blocks destructive and obfuscated shell commands (shadow mode, hash-chained receipts), installable on OpenClaw via ClawHub.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
