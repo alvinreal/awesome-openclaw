@@ -109,6 +109,7 @@
 ## 🎛️ Dashboards & Control Centers
 
 - [ValueCell-ai/ClawX](https://github.com/ValueCell-ai/ClawX) ![GitHub Repo stars](https://img.shields.io/github/stars/ValueCell-ai/ClawX?style=social) - Desktop GUI for running and managing OpenClaw agents without living in the terminal.
+- [openclaw-easy/openclaw-easy-desktop](https://github.com/openclaw-easy/openclaw-easy-desktop) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw-easy/openclaw-easy-desktop?style=social) - Desktop app for macOS and Windows that bundles OpenClaw and connects it to WhatsApp, Telegram, Discord and Slack without a terminal.
 - [clawdeckio/clawdeck](https://github.com/clawdeckio/clawdeck) ![GitHub Repo stars](https://img.shields.io/github/stars/clawdeckio/clawdeck?style=social) - Mission-control dashboard for OpenClaw agents.
 - [mudrii/openclaw-dashboard](https://github.com/mudrii/openclaw-dashboard) ![GitHub Repo stars](https://img.shields.io/github/stars/mudrii/openclaw-dashboard?style=social) - Command-center style dashboard focused on visibility and management.
 - [tugcantopaloglu/openclaw-dashboard](https://github.com/tugcantopaloglu/openclaw-dashboard) ![GitHub Repo stars](https://img.shields.io/github/stars/tugcantopaloglu/openclaw-dashboard?style=social) - Secure real-time monitoring dashboard with auth, cost tracking, and memory browsing.
