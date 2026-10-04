@@ -263,6 +263,7 @@
 
 <a id="learning-resources"></a>
 ## 🎓 Learning Resources
+- [AI Group Call](https://aigroupcall.app) - An AI council you can talk to: a group voice call where agents riff with each other, answer when named, and yield when you speak.
 
 - [alvinunreal/awesome-openclaw-tips](https://github.com/alvinunreal/awesome-openclaw-tips) ![GitHub Repo stars](https://img.shields.io/github/stars/alvinunreal/awesome-openclaw-tips?style=social) - Curated OpenClaw tips, setup advice, and practical usage guidance.
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) ![GitHub Repo stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social) - Real-world use cases and applied examples.
