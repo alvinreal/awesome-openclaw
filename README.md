@@ -162,6 +162,7 @@
 - [linuxhsj/openclaw-zero-token](https://github.com/linuxhsj/openclaw-zero-token) ![GitHub Repo stars](https://img.shields.io/github/stars/linuxhsj/openclaw-zero-token?style=social) - Run OpenClaw against major AI models without traditional API tokens.
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ![GitHub Repo stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social) - Record an OpenClaw run and replay it offline, including gateway calls and spawned coding agents.
 - [sandbaseai/cli](https://github.com/sandbaseai/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social) - CLI and local MCP bridge that configures OpenClaw to discover and use 2,000+ models and APIs.
+- [swarm-t3/safebump](https://github.com/swarm-t3/safebump) ![GitHub Repo stars](https://img.shields.io/github/stars/swarm-t3/safebump?style=social) - Per-release update safety tracker (open P0/crash-loop issues per version) plus an index of every `Update failure:` reason code with doc-backed fixes. Refreshed every 4 hours.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
