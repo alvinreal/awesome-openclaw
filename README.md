@@ -206,6 +206,7 @@
 - [getaxonflow/axonflow-openclaw-plugin](https://github.com/getaxonflow/axonflow-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/getaxonflow/axonflow-openclaw-plugin?style=social) - AxonFlow governance for OpenClaw agents — block dangerous tools, govern MCP access, and keep audit trails.
 - [secr-dev/openclaw-plugin](https://github.com/secr-dev/openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/secr-dev/openclaw-plugin?style=social) - Native secrets manager plugin for OpenClaw — brokers credentials, enforces per-agent allowlists, gates tool calls through MCP with approval queues.
 - [backbay-labs/clawdstrike](https://github.com/backbay-labs/clawdstrike) ![GitHub Repo stars](https://img.shields.io/github/stars/backbay-labs/clawdstrike?style=social) - AI EDR for developer workstations and autonomous agent fleets with swarm detection and response.
+- [Continuum-AI-Corp/Orca-AI-Incident-Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) ![GitHub Repo stars](https://img.shields.io/github/stars/Continuum-AI-Corp/Orca-AI-Incident-Archive?style=social) - Orca AI Incident Archive, a source-linked database of AI agent security incidents that tracks OpenClaw cases such as ClawHavoc, ClawJacked and malicious ClawHub skills.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
