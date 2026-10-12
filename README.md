@@ -136,7 +136,7 @@
 - [gluk-w/claworc](https://github.com/gluk-w/claworc) ![GitHub Repo stars](https://img.shields.io/github/stars/gluk-w/claworc?style=social) - User-friendly orchestrator for OpenClaw fleets and workflows.
 - [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) ![GitHub Repo stars](https://img.shields.io/github/stars/junhoyeo/tokscale?style=social) - CLI for tracking token usage across OpenClaw, Claude Code, Codex, OpenCode, Gemini, Cursor, and more.
 - [luoyuctl/agenttrace](https://github.com/luoyuctl/agenttrace) ![GitHub Repo stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social) - Local CLI/TUI for OpenClaw and coding-agent session history diagnostics.
-- [herval/littleguys](https://github.com/herval/littleguys) ![GitHub Repo stars](https://img.shields.io/github/stars/herval/littleguys?style=social) - Small Mac menu bar app that shows OpenClaw agents from several gateways (found on your tailnet and LAN) at a glance, with replies and approvals one click away.
+- [herval/littleguys](https://github.com/herval/littleguys) ![GitHub Repo stars](https://img.shields.io/github/stars/herval/littleguys?style=social) - WhatsApp-style Mac app for chatting with OpenClaw agents on one or more gateways, with approvals and routines.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
