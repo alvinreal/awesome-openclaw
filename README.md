@@ -260,6 +260,7 @@
 - [lucinate-ai/lucinate](https://github.com/lucinate-ai/lucinate) ![GitHub Repo stars](https://img.shields.io/github/stars/lucinate-ai/lucinate?style=social) - Terminal-native TUI chat client in Go for OpenClaw, Hermes, and OpenAI-compatible endpoints.
 - [agent37-platform/gateway](https://github.com/agent37-platform/gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/agent37-platform/gateway?style=social) - Single Responses-style HTTP/SSE API that routes chat turns to Hermes or OpenClaw backends.
 - [iclawapp/iclaw](https://github.com/iclawapp/iclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/iclawapp/iclaw?style=social) - Local-first workspace with isolated folders and containerized execution, using OpenClaw as the default agent runtime.
+- [currentbits/mimir](https://github.com/currentbits/mimir) ![GitHub Repo stars](https://img.shields.io/github/stars/currentbits/mimir?style=social) - OpenClaw-style personal assistant desktop app and Docker server in Rust that runs on an existing Claude, ChatGPT or Grok subscription, with Telegram, Slack, Discord and Signal channels.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
