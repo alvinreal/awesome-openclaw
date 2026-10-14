@@ -233,6 +233,8 @@
 <a id="alternative-clients-runtimes"></a>
 ## ⚡ Alternative Clients & Runtimes
 
+- [Kortix](https://openclaw-alternative.com) - The open-source AI Operating System for company agent work: agents, skills and memory in one git repo you own, an isolated sandbox per session, and a human review gate before work lands.
+
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) ![GitHub Repo stars](https://img.shields.io/github/stars/iOfficeAI/AionUi?style=social) - Free local cowork app and OpenClaw-style UI spanning multiple coding-agent ecosystems.
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/zeroclaw-labs/zeroclaw?style=social) - Fast, small, fully autonomous AI personal assistant infrastructure — deploy anywhere, swap anything.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/nanocoai/nanoclaw?style=social) - Lightweight containerized OpenClaw alternative with messaging integrations, memory, and scheduled jobs.
