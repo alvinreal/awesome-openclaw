@@ -217,6 +217,7 @@ Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls
 - [openclaw/clawscan](https://github.com/openclaw/clawscan) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/clawscan?style=social) - Official composable security scanner for agent skills.
 - [armoriq/armorclaw](https://github.com/armoriq/armorclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/armoriq/armorclaw?style=social) - Intent-enforcement plugin that checks OpenClaw agent actions before they run.
 - [jgamblin/OpenClawCVEs](https://github.com/jgamblin/OpenClawCVEs) ![GitHub Repo stars](https://img.shields.io/github/stars/jgamblin/OpenClawCVEs?style=social) - Tracker of published OpenClaw CVEs.
+- [kenryu42/cc-safety-net](https://github.com/kenryu42/cc-safety-net) ![GitHub Repo stars](https://img.shields.io/github/stars/kenryu42/cc-safety-net?style=social) - OpenClaw plugin that checks `exec` tool calls before they run and blocks destructive Git and filesystem commands and access to secrets such as SSH keys and `.env` files.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
