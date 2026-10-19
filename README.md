@@ -243,6 +243,8 @@ Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls
 - [dream-num/openclaw-univer-office](https://github.com/dream-num/openclaw-univer-office) ![GitHub Repo stars](https://img.shields.io/github/stars/dream-num/openclaw-univer-office?style=social) - OpenClaw plugin for creating and reviewing collaborative office artifacts in Univer Workspace.
 - [techartdev/OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant) ![GitHub Repo stars](https://img.shields.io/github/stars/techartdev/OpenClawHomeAssistant?style=social) - Home Assistant add-on that runs OpenClaw inside a Home Assistant instance.
 - [redf0x1/camofox-browser](https://github.com/redf0x1/camofox-browser) ![GitHub Repo stars](https://img.shields.io/github/stars/redf0x1/camofox-browser?style=social) - Anti-detection browser server for agents, with an OpenClaw plugin.
+- [allblu-xyz/allblu-openclaw-plugin](https://github.com/allblu-xyz/allblu-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/allblu-xyz/allblu-openclaw-plugin?style=social) - Read-only OpenClaw plugin for live cross-chain crypto swap quotes and supported assets without wallet connections or swap execution.
+
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
