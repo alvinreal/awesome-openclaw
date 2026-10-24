@@ -217,6 +217,7 @@ Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls
 - [openclaw/clawscan](https://github.com/openclaw/clawscan) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/clawscan?style=social) - Official composable security scanner for agent skills.
 - [armoriq/armorclaw](https://github.com/armoriq/armorclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/armoriq/armorclaw?style=social) - Intent-enforcement plugin that checks OpenClaw agent actions before they run.
 - [jgamblin/OpenClawCVEs](https://github.com/jgamblin/OpenClawCVEs) ![GitHub Repo stars](https://img.shields.io/github/stars/jgamblin/OpenClawCVEs?style=social) - Tracker of published OpenClaw CVEs.
+- [crocodile-labs/openmoat](https://github.com/crocodile-labs/openmoat) ![GitHub Repo stars](https://img.shields.io/github/stars/crocodile-labs/openmoat?style=social) - OpenClaw plugin on the before_tool_call hook that checks shell commands, file access, web requests and MCP calls against one local policy before they run, with a hash-chained audit log; the same policy covers Claude Code, Codex and Cursor.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
