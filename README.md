@@ -158,6 +158,8 @@ Registries and platforms for finding or hosting skills. Individual skills are no
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ![GitHub Repo stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social) - Record an OpenClaw run and replay it offline, including gateway calls and spawned coding agents.
 - [aai-labs/agent-barn](https://github.com/aai-labs/agent-barn) ![GitHub Repo stars](https://img.shields.io/github/stars/aai-labs/agent-barn?style=social) - Control plane for AI agent teams: runs OpenClaw and Hermes runtimes on your own Kubernetes cluster via Helm, with chat front ends in Slack, Teams, Telegram, Discord and email.
 
+- [ClawBud](https://clawbud.ai/openclaw) - Managed OpenClaw hosting with a private cloud computer per customer account, browser access, and an agent management dashboard.
+
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
 <a id="models-providers"></a>
