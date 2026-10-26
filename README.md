@@ -199,6 +199,7 @@ Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) ![GitHub Repo stars](https://img.shields.io/github/stars/thedotmack/claude-mem?style=social) - Persistent session memory for agents including OpenClaw — capture, compress, and reinject relevant context across runs.
 - [max-ng/datamoat](https://github.com/max-ng/datamoat) ![GitHub Repo stars](https://img.shields.io/github/stars/max-ng/datamoat?style=social) - Export, back up, search, and reuse conversation memory across ChatGPT, Claude, Codex, Cursor, and OpenClaw.
 - [ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes](https://github.com/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes) ![GitHub Repo stars](https://img.shields.io/github/stars/ElonAug7/Mnemosyne-agentmemory-engine-openclaw-hermes?style=social) - Local-first memory engine for OpenClaw and Hermes agents: a four-layer plain-Markdown store ranked by compound-cue formulas, with no embedding API or vector DB.
+- [sno-ai/sno-station](https://github.com/sno-ai/sno-station) ![GitHub Repo stars](https://img.shields.io/github/stars/sno-ai/sno-station?style=social) - Local runtime with an OpenClaw plugin (`@snoai/mem-claw`) that gives OpenClaw, Claude Code, Codex, Cursor and Hermes one shared encrypted memory, so one agent can take over a task when another hits its usage limit or review its work.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
