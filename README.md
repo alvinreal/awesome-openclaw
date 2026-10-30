@@ -217,6 +217,7 @@ Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls
 - [openclaw/clawscan](https://github.com/openclaw/clawscan) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/clawscan?style=social) - Official composable security scanner for agent skills.
 - [armoriq/armorclaw](https://github.com/armoriq/armorclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/armoriq/armorclaw?style=social) - Intent-enforcement plugin that checks OpenClaw agent actions before they run.
 - [jgamblin/OpenClawCVEs](https://github.com/jgamblin/OpenClawCVEs) ![GitHub Repo stars](https://img.shields.io/github/stars/jgamblin/OpenClawCVEs?style=social) - Tracker of published OpenClaw CVEs.
+- [recued/recued](https://github.com/recued/recued) ![GitHub Repo stars](https://img.shields.io/github/stars/recued/recued?style=social) - Self-hosted MCP gateway between OpenClaw (or other agents) and the owner's mail, calendar, files and CRM that logs every call before it runs and holds writes for the owner's approval by default.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
