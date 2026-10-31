@@ -300,6 +300,7 @@ Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls
 - [liyupi/ai-guide](https://github.com/liyupi/ai-guide) ![GitHub Repo stars](https://img.shields.io/github/stars/liyupi/ai-guide?style=social) - Broad Chinese AI resource guide including OpenClaw onboarding tutorials and practical model usage.
 - [centminmod/explain-openclaw](https://github.com/centminmod/explain-openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/centminmod/explain-openclaw?style=social) - Multi-AI documentation covering architecture, security, and deployment.
 - [shuolucs/Awesome-OpenClaw-Research](https://github.com/shuolucs/Awesome-OpenClaw-Research) ![GitHub Repo stars](https://img.shields.io/github/stars/shuolucs/Awesome-OpenClaw-Research?style=social) - Research-oriented collection of papers, analyses, and resources on the OpenClaw ecosystem.
+- [Setting Up Voice Channels With OpenClaw and Discord](https://engineering.kenmazaika.com/blog/setting-up-voice-channels-with-openclaw-and-discord/) - A practical guide to configuring Discord voice in OpenClaw, including the turn-taking settings that reduce response lag and the operating cost tradeoffs.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
