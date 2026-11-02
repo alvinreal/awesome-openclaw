@@ -216,6 +216,7 @@ Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls
 - [backbay-labs/clawdstrike](https://github.com/backbay-labs/clawdstrike) ![GitHub Repo stars](https://img.shields.io/github/stars/backbay-labs/clawdstrike?style=social) - AI EDR for developer workstations and autonomous agent fleets with swarm detection and response.
 - [openclaw/clawscan](https://github.com/openclaw/clawscan) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/clawscan?style=social) - Official composable security scanner for agent skills.
 - [armoriq/armorclaw](https://github.com/armoriq/armorclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/armoriq/armorclaw?style=social) - Intent-enforcement plugin that checks OpenClaw agent actions before they run.
+- [Quinnod345/ponder](https://github.com/Quinnod345/ponder) ![GitHub Repo stars](https://img.shields.io/github/stars/Quinnod345/ponder?style=social) - Coverage-gated deliberation and verification CLI for autonomous coding agents with append-only audit ledgers.
 - [jgamblin/OpenClawCVEs](https://github.com/jgamblin/OpenClawCVEs) ![GitHub Repo stars](https://img.shields.io/github/stars/jgamblin/OpenClawCVEs?style=social) - Tracker of published OpenClaw CVEs.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
