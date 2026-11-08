@@ -173,6 +173,7 @@ Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls
 - [mnfst/llm-gateway](https://github.com/mnfst/llm-gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/mnfst/llm-gateway?style=social) - Open-source LLM gateway for routing requests across model providers.
 - [sandbaseai/cli](https://github.com/sandbaseai/cli) ![GitHub Repo stars](https://img.shields.io/github/stars/sandbaseai/cli?style=social) - CLI and local MCP bridge that configures OpenClaw to discover and use 2,000+ models and APIs.
 - [badrisnarayanan/antigravity-claude-proxy](https://github.com/badrisnarayanan/antigravity-claude-proxy) ![GitHub Repo stars](https://img.shields.io/github/stars/badrisnarayanan/antigravity-claude-proxy?style=social) - Proxy that exposes Antigravity Claude and Gemini models to Claude Code and OpenClaw.
+- [henrikdukefoss/openclaw-standardcompute](https://github.com/henrikdukefoss/openclaw-standardcompute) ![GitHub Repo stars](https://img.shields.io/github/stars/henrikdukefoss/openclaw-standardcompute?style=social) - Provider plugin that connects OpenClaw to Standard Compute, an OpenAI-compatible LLM gateway that routes each step to the cheapest capable model.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
