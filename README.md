@@ -280,6 +280,7 @@ Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls
 - [agent37-platform/gateway](https://github.com/agent37-platform/gateway) ![GitHub Repo stars](https://img.shields.io/github/stars/agent37-platform/gateway?style=social) - Single Responses-style HTTP/SSE API that routes chat turns to Hermes or OpenClaw backends.
 - [iclawapp/iclaw](https://github.com/iclawapp/iclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/iclawapp/iclaw?style=social) - Local-first workspace with isolated folders and containerized execution, using OpenClaw as the default agent runtime.
 - [tashfeenahmed/scallopbot](https://github.com/tashfeenahmed/scallopbot) ![GitHub Repo stars](https://img.shields.io/github/stars/tashfeenahmed/scallopbot?style=social) - Self-hosted personal assistant with OpenClaw-compatible skills, MCP support, and a memory that consolidates, decays, and self-reflects overnight.
+- [adelphidata/borg](https://github.com/adelphidata/borg) ![GitHub Repo stars](https://img.shields.io/github/stars/adelphidata/borg?style=social) - Rust personal-assistant runtime with a one-command import from OpenClaw, sandboxed tool execution, a self-healing daemon, provider failover, long-term memory, scheduled tasks, MCP, and Telegram, Slack, Discord, WhatsApp and iMessage channels.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
