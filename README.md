@@ -286,6 +286,7 @@ Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls
 <a id="learning-resources"></a>
 ## 🎓 Learning Resources
 
+- [asbarron/quizzes-and-flashcards](https://github.com/asbarron/quizzes-and-flashcards) ![GitHub Repo stars](https://img.shields.io/github/stars/asbarron/quizzes-and-flashcards?style=social) - Flashcards and quizzes on Claw-style agent architecture, memory files, deployment, and security, with a ready-to-import Anki deck.
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) ![GitHub Repo stars](https://img.shields.io/github/stars/hesamsheikh/awesome-openclaw-usecases?style=social) - Real-world use cases and applied examples.
 - [mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents) ![GitHub Repo stars](https://img.shields.io/github/stars/mergisi/awesome-openclaw-agents?style=social) - Production-ready OpenClaw agent templates with SOUL.md configs across many categories.
 - [AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh) ![GitHub Repo stars](https://img.shields.io/github/stars/AlexAnys/awesome-openclaw-usecases-zh?style=social) - Chinese OpenClaw use-case collection covering office, content, ops, and knowledge-management scenarios.
