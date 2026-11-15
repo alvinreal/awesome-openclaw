@@ -128,6 +128,7 @@ Registries and platforms for finding or hosting skills. Individual skills are no
 - [openclaw/openclaw-enterprise](https://github.com/openclaw/openclaw-enterprise) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw-enterprise?style=social) - Official enterprise control plane for OpenClaw workloads.
 - [nullclaw/nullhub](https://github.com/nullclaw/nullhub) ![GitHub Repo stars](https://img.shields.io/github/stars/nullclaw/nullhub?style=social) - Management console for NullClaw agents, workflows, and task pipelines.
 - [golutra/golutra](https://github.com/golutra/golutra) ![GitHub Repo stars](https://img.shields.io/github/stars/golutra/golutra?style=social) - Orchestration platform that runs Codex, Claude Code, and OpenClaw as one agent system.
+- [Octopus Prime AI](https://octopusprimeai.com/openclaw) - Hosted team workspace (paid, free trial) that connects several OpenClaw Gateways in one place, with per-agent sharing, roles, tasks, approvals and web, desktop and iPhone apps.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
