@@ -217,6 +217,7 @@ Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls
 - [openclaw/clawscan](https://github.com/openclaw/clawscan) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/clawscan?style=social) - Official composable security scanner for agent skills.
 - [armoriq/armorclaw](https://github.com/armoriq/armorclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/armoriq/armorclaw?style=social) - Intent-enforcement plugin that checks OpenClaw agent actions before they run.
 - [jgamblin/OpenClawCVEs](https://github.com/jgamblin/OpenClawCVEs) ![GitHub Repo stars](https://img.shields.io/github/stars/jgamblin/OpenClawCVEs?style=social) - Tracker of published OpenClaw CVEs.
+- [joe1993119/moneytools-openclaw-plugin](https://github.com/joe1993119/moneytools-openclaw-plugin) ![GitHub Repo stars](https://img.shields.io/github/stars/joe1993119/moneytools-openclaw-plugin?style=social) - OpenClaw plugin (MoneyTools Guard) that runs a pay precheck before detected x402 payments and a Wallet Risk Card on the spender before detected approve/Permit approvals; autoPay defaults to off and the default daily budget is 0.25 USDC.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
