@@ -128,6 +128,7 @@ Registries and platforms for finding or hosting skills. Individual skills are no
 - [openclaw/openclaw-enterprise](https://github.com/openclaw/openclaw-enterprise) ![GitHub Repo stars](https://img.shields.io/github/stars/openclaw/openclaw-enterprise?style=social) - Official enterprise control plane for OpenClaw workloads.
 - [nullclaw/nullhub](https://github.com/nullclaw/nullhub) ![GitHub Repo stars](https://img.shields.io/github/stars/nullclaw/nullhub?style=social) - Management console for NullClaw agents, workflows, and task pipelines.
 - [golutra/golutra](https://github.com/golutra/golutra) ![GitHub Repo stars](https://img.shields.io/github/stars/golutra/golutra?style=social) - Orchestration platform that runs Codex, Claude Code, and OpenClaw as one agent system.
+- [Tesseract](https://tesseract.dev) - Free closed-source desktop app for macOS, Windows and Linux that runs OpenClaw alongside Claude Code, Codex, Hermes Agent and 10 other agent frameworks, a different one in each conversation.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
