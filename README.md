@@ -157,9 +157,9 @@ Registries and platforms for finding or hosting skills. Individual skills are no
 - [TunMax/openclaw_computer](https://github.com/TunMax/openclaw_computer) ![GitHub Repo stars](https://img.shields.io/github/stars/TunMax/openclaw_computer?style=social) - Debian desktop container with OpenClaw preinstalled for browser-based hosted containers.
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) ![GitHub Repo stars](https://img.shields.io/github/stars/Continuum-AI-Corp/OrcaReplay?style=social) - Record an OpenClaw run and replay it offline, including gateway calls and spawned coding agents.
 - [aai-labs/agent-barn](https://github.com/aai-labs/agent-barn) ![GitHub Repo stars](https://img.shields.io/github/stars/aai-labs/agent-barn?style=social) - Control plane for AI agent teams: runs OpenClaw and Hermes runtimes on your own Kubernetes cluster via Helm, with chat front ends in Slack, Teams, Telegram, Discord and email.
+- [tunguyen1993/vn-ai-vps-stack](https://github.com/tunguyen1993/vn-ai-vps-stack) ![GitHub Repo stars](https://img.shields.io/github/stars/tunguyen1993/vn-ai-vps-stack?style=social) - MIT-licensed Docker Compose stack for self-hosting n8n with Caddy auto-HTTPS, Redis queue workers, an OpenClaw Telegram assistant workflow, and AI-readable llms.txt VPS RAM sizing guides.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
-- [tunguyen1993/vn-ai-vps-stack](https://github.com/tunguyen1993/vn-ai-vps-stack) ![GitHub Repo stars](https://img.shields.io/github/stars/tunguyen1993/vn-ai-vps-stack?style=social) - MIT-licensed Docker Compose stack for self-hosting n8n with Caddy auto-HTTPS, Redis queue workers, an OpenClaw Telegram assistant workflow, and AI-readable llms.txt VPS RAM sizing guides.
 
 <a id="models-providers"></a>
 ## 🤖 Models & Providers
