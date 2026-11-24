@@ -88,6 +88,7 @@ Registries and platforms for finding or hosting skills. Individual skills are no
 - [iflytek/skillhub](https://github.com/iflytek/skillhub) ![GitHub Repo stars](https://img.shields.io/github/stars/iflytek/skillhub?style=social) - Self-hosted enterprise skill registry with versioning, RBAC, audit logs, and Docker or Kubernetes deploy.
 - [anbeime/skill](https://github.com/anbeime/skill) ![GitHub Repo stars](https://img.shields.io/github/stars/anbeime/skill?style=social) - Chinese skills store with packaged installable bundles, including OpenClaw skills.
 - [AMAP-ML/SkillClaw](https://github.com/AMAP-ML/SkillClaw) ![GitHub Repo stars](https://img.shields.io/github/stars/AMAP-ML/SkillClaw?style=social) - Post-task system that deduplicates, improves, and shares skills across OpenClaw and other agents.
+- [publicrecords-skills](https://github.com/GeminiGeorge22/publicrecords-skills) - Agent Skills + MCP plugin (Claude Code, Codex, Copilot, Cursor, Gemini CLI, Kiro) for 18 public-data Apify Actors: SAM.gov, Grants.gov, USAspending, EU/UK tenders, council meetings, ATS jobs, company socials, Google Ads, Etsy, sports odds, Spotify.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
