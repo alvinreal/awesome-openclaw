@@ -300,6 +300,7 @@ Routers, catalogs, and provider bridges for the models an OpenClaw gateway calls
 - [liyupi/ai-guide](https://github.com/liyupi/ai-guide) ![GitHub Repo stars](https://img.shields.io/github/stars/liyupi/ai-guide?style=social) - Broad Chinese AI resource guide including OpenClaw onboarding tutorials and practical model usage.
 - [centminmod/explain-openclaw](https://github.com/centminmod/explain-openclaw) ![GitHub Repo stars](https://img.shields.io/github/stars/centminmod/explain-openclaw?style=social) - Multi-AI documentation covering architecture, security, and deployment.
 - [shuolucs/Awesome-OpenClaw-Research](https://github.com/shuolucs/Awesome-OpenClaw-Research) ![GitHub Repo stars](https://img.shields.io/github/stars/shuolucs/Awesome-OpenClaw-Research?style=social) - Research-oriented collection of papers, analyses, and resources on the OpenClaw ecosystem.
+- [CWYN OpenClaw troubleshooting guides](https://cwyn.com/guides/openclaw/) - Free OpenClaw troubleshooting guides, organized by symptom.
 
 <p align="right"><a href="#contents">⬆️ Back to Top</a></p>
 
